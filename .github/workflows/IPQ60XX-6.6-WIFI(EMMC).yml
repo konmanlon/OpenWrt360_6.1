@@ -1,6 +1,7 @@
 name: IPQ60XX-6.6-WIFI(EMMC)
 
 on:
+  workflow_dispatch:
   pull_request:
     branches:
     - main
